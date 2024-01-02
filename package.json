@@ -12,5 +12,8 @@
     "start": "node index.js"
   },
   "author": "Yogesh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
 }
