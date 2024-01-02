@@ -58,6 +58,6 @@ This application uses Jest for unit tests. To run the tests:
 
 ```bash
 npm test
-
+```
 ## Author
 Contact: If you have additional questions or concerns, feel free to reach out to me at yogesh.ye63@gmail.com.
