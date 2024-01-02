@@ -18,6 +18,8 @@ This Node.js command-line application allows freelance web developers to generat
     ```bash
     npm install
     ```
+    ![Uploading image.png…]()
+
 
 3. **Run the application.**
 
