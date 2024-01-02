@@ -40,6 +40,15 @@ const questions = [
     },
 ];
 
+function writeToFile(fileName, data) {
+    try {
+        fs.writeFileSync(fileName, data);
+        console.log(`Generated "${fileName}".`);
+    } catch (err) {
+        console.error(`Error: ${err}`);
+    }
+}
+
 const shapes = {
     Circle: new Circle(),
     Square: new Square(),
@@ -55,7 +64,8 @@ function init(){
         const svgShape = shapes[shape]
         svgShape.setColor(shapeColor)
         const svg = new Svg(svgShape.render(), textColor, text)
-        console.log(svg.render())
+
+        writeToFile("logo.svg",svg.render())
     });
 }
 
