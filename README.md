@@ -2,8 +2,6 @@
 
 This Node.js command-line application allows freelance web developers to generate simple logos for their projects without the need for a graphic designer. Users can customize the logo by choosing text, text color, shape, and shape color. The generated logo is saved as an SVG file.
 
-![image](https://github.com/Yogesh699/SVG-Logo-Maker/assets/143371945/bc91c3c8-55d6-4c04-8b06-1ea2d12d70f1)
-
 
 ## Getting Started
 
