@@ -18,7 +18,7 @@ This Node.js command-line application allows freelance web developers to generat
     ```bash
     npm install
     ```
-    ![Uploading image.png…]()
+    
 
 
 3. **Run the application.**
@@ -61,5 +61,7 @@ This application uses Jest for unit tests. To run the tests:
 ```bash
 npm test
 ```
+![image](https://github.com/Yogesh699/SVG-Logo-Maker/assets/143371945/ded1787a-14d7-4423-9f18-73c72ddb1d09)
+
 ## Author
 Contact: If you have additional questions or concerns, feel free to reach out to me at yogesh.ye63@gmail.com.
