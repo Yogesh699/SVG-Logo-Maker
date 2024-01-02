@@ -1,0 +1,16 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Logo maker using nodeJS",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yogesh",
+  "license": "ISC"
+}
