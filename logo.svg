@@ -1,5 +1,8 @@
 
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-            <circle cx="150" cy="100" r="50" fill="triangle" />
-            <text x="150" y="110" font-size="30" text-anchor="middle" fill="black">asd</text>
-        </svg>
+      <!-- Define the SVG element -->
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <!-- Add the shape element (e.g. a polygon or rectangle) -->
+        <polygon points="150,18 244,182 56,182" fill="triangle" />
+        <!-- Add a text element with the specified text and color -->
+        <text x="150" y="110" font-size="30" text-anchor="middle" fill="white">ABS</text>
+      </svg>
